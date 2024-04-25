@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 
-<img align="right" alt="Coding" width="1000" src="https://github.com/gurpreetSingh4/Backend_codes_guru/blob/main/image.png">
+<img align="right" alt="Coding" width="1000" src="https://github.com/gurpreetSingh4/gurpreetSingh4/blob/main/image.png">
 <hr></hr>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=gurpreetSingh4&label=Profile%20views&color=0e75b6&style=flat"
