@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=gurpreetSingh4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/gurpreetSingh4/gurpreetSingh4/blob/main/image.png" />
+<img align="center" alt="Coding" height="275" width="900" src="https://github.com/gurpreetSingh4/gurpreetSingh4/blob/main/image.png" />
 
 ---
 
