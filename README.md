@@ -46,8 +46,8 @@
 ---
 
 ## 📊 Products OpenSource
-### 🔗 Source code Links
-##### 🔗 Wanna to contribute
+### 🔗 Gugly Email Client
+##### 🔗 Source code Links
 
 - 🔥 **Product Demonstration**: [Video](https://drive.google.com/file/d/1mxYymA5k4GgklEe7vL0T6vKWKW6fF59g/view?usp=sharing)
 - 🔥 **Front End Monorepo**: [https://github.com/gurpreetSingh4/front-end_gugly-email-client/tree/master)
@@ -60,9 +60,7 @@
   <img align="left" src="https://github.com/gurpreetSingh4/front-end_gugly-email-client/blob/master/public/gugly-email-client.png?raw=true" alt="EmailClient" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreetSingh4&show_icons=true&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
-</p>
+
 
 <br><br><br><br><br><br><br><br><br><br>
 
