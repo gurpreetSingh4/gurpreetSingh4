@@ -1,61 +1,75 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 
-<img align="right" alt="Coding" width="1000" src="https://github.com/gurpreetSingh4/gurpreetSingh4/blob/main/image.png">
-<hr></hr>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=gurpreetSingh4&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-  
-<hr></hr>
-
-
-- 🌱 I’m currently learning Artificial Intelligence and Ml 
-- 📫 How to reach me **gurpreetyarasingh@gmail.com**
-<hr></hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gurpreet-singh-1a3bb4296/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/gurpreet_yara/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://leetcode.com/gurpreetyarasingh/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/Gurpreet3915" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gurpreetSingh4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/gurpreetSingh4/gurpreetSingh4/blob/main/image.png" />
+
+---
+
+- 🌱 I’m currently working on scalable backend services using **NestJS**, **GraphQL**, **Redis**, **Kafka**,**Grpc**, and more.
+- 📫 Reach me at **gurpreetyarasingh@gmail.com**
+
+---
+
+### 🧑‍💼 Connect with me
+
 <p align="left">
-    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg"
-      alt="NestJs" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank"
-    rel="noreferrer">
-           <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a>
-           </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-               
-    
-    
-<hr style={{color:'#000'}}></hr>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gurpreetSingh4&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-<hr style={{color:'#000'}}></hr>
+  <a href="https://www.linkedin.com/in/gurpreet-singh-1a3bb4296/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/gurpreet_yara/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/Gurpreet3915" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreetSingh4&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-<hr></hr>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreetSingh4&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="NestJS" width="40" height="40"/> <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://kafka.apache.org/logos/kafka_logo--simple.png" alt="Kafka" width="40" height="40"/>
+  <img src="https://opensource.google/static/images/projects/os-projects-grpc.svg" alt="grpc" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Products OpenSource
+### 🔗 Source code Links
+##### 🔗 Wanna to contribute
+
+- 🔥 **Product Demonstration**: [Video](https://drive.google.com/file/d/1mxYymA5k4GgklEe7vL0T6vKWKW6fF59g/view?usp=sharing)
+- 🔥 **Front End Monorepo**: [https://github.com/gurpreetSingh4/front-end_gugly-email-client/tree/master)
+- 🔥 **AuthService BackEnd**: [https://github.com/gurpreetSingh4/auth-service_gugly-email-client](https://github.com/gurpreetSingh4/auth-service_gugly-email-client)
+- 🔥 **Email Service BackEnd**: [https://github.com/gurpreetSingh4/email-service-nest](https://github.com/gurpreetSingh4/email-service-nest)
 
 
-[GURPREET SINGH](https://github.com/gurpreetSingh4)
-<a href="https://app.daily.dev/gurpreetsingh4"><img src="https://api.daily.dev/devcards/3163f5266be046729c16e73056befe51.png?r=yps" width="400" alt="Gurpreet Singh's Dev Card"/></a>
+<p>
+  <img align="left" src="https://github.com/gurpreetSingh4/front-end_gugly-email-client/blob/master/public/googly-email-client-pie.png?raw=true" alt="EmailClient" />
+  <img align="left" src="https://github.com/gurpreetSingh4/front-end_gugly-email-client/blob/master/public/gugly-email-client.png?raw=true" alt="EmailClient" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreetSingh4&show_icons=true&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
+</p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<p align="center">
+  
+</p>
+
+---
+
+
