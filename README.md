@@ -43,22 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
----
-
-## 📊 Products OpenSource
-### 🔗 Gugly Email Client
-##### 🔗 Source code Links
-
-- 🔥 **Product Demonstration**: [Video](https://drive.google.com/file/d/1mxYymA5k4GgklEe7vL0T6vKWKW6fF59g/view?usp=sharing)
-- 🔥 **Front End Monorepo**: [https://github.com/gurpreetSingh4/front-end_gugly-email-client/tree/master)
-- 🔥 **AuthService BackEnd**: [https://github.com/gurpreetSingh4/auth-service_gugly-email-client](https://github.com/gurpreetSingh4/auth-service_gugly-email-client)
-- 🔥 **Email Service BackEnd**: [https://github.com/gurpreetSingh4/email-service-nest](https://github.com/gurpreetSingh4/email-service-nest)
-
-
-<p>
-  <img align="left" src="https://github.com/gurpreetSingh4/front-end_gugly-email-client/blob/master/public/googly-email-client-pie.png?raw=true" alt="EmailClient" />
-  <img align="left" src="https://github.com/gurpreetSingh4/front-end_gugly-email-client/blob/master/public/gugly-email-client.png?raw=true" alt="EmailClient" />
-</p>
 
 
 
