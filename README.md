@@ -43,11 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
-
-
-
-<br><br><br><br><br><br><br><br><br><br>
-
 <p align="center">
   
 </p>
